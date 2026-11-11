@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0969da&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=omsingh-sgt&style=flat-square&color=0969da&label=Profile+Views" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-0969da?style=flat-square" />
 <img src="https://img.shields.io/badge/Based%20in-India-238636?style=flat-square" />
 
